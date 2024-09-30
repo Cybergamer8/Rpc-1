@@ -16,16 +16,20 @@ client.on('ready', async () => {
         .setType('STREAMING')
         .setURL('https://twitch.tv/cyber_winner')
         .setState('UID - 1803102972')
-        .setName('GENSHIN IMPACT')
-        .setDetails('PLAYING GENSHIN IMPACT')
+        .setName('I am pranjal')
+        .setDetails('Yo pranjal')
         .setAssetsLargeImage('https://media.discordapp.net/attachments/1170286339179159563/1290179358799040512/IMG_20240318_213850.jpg?ex=66fb84a9&is=66fa3329&hm=733a9465294664f6c8f35eeb7ddc119a961528f3154facde87bd83d7a6ba6d4b&')
-        .setAssetsLargeText('PRANJAL')
+        .setAssetsLargeText('╭╯꒰𑁬 💒 ໒꒱ **__Pranjal__** *!!* ･｡♡
+︰₊˚ฅ ୨ 🩰 ୧ 13 ₊
+︰ Male﹕ 🎀 ๑
+╰╮﹒₊˚ 🌷﹕I am immature 💭 ₊˚ฅ
+꒦｡˚⋆﹕₊˚︶๑‧˚₊꒷꒦︶・✦․⁺﹒﹕₊˚꒦｡˚⋆')
         .setAssetsSmallImage('https://media.discordapp.net/attachments/1169491681507278863/1290181771325079664/17371ac53d1f82719e18cd14da9991b7.gif?ex=66fb86e8&is=66fa3568&hm=98d19c842282c7395dd6e97308e9c02e441b0e3ab576b35f344503261e1495a3&')
-        .setAssetsSmallText('DISCORD')
+        .setAssetsSmallText('click the button below')
         .addButton('Click here for surprise', 'https://discord.gg/sMZZQZZQHy');
 
     client.user.setActivity(r);
-    client.user.setPresence({ status: 'dnd' });
+    client.user.setPresence({ status: 'online' });
 });
 
 client.login(process.env.TOKEN);
