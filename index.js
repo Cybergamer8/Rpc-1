@@ -1,4 +1,4 @@
-rdydzIwaWQ2eWsx'dydzIwaWQ2eWsx'nst Discord = require('discord.js-selfbot-v13');
+const Discord = require('discord.js-selfbot-v13');
 const client = new Discord.Client({
   readyStatus: false,
   checkUpdate: false
