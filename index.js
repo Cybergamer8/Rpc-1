@@ -18,9 +18,9 @@ client.on('ready', async () => {
         .setState('struggling')
         .setName('Pranjal Yoooo')
         .setDetails('My Life')
-        .setAssetsLargeImage('https://media.discordapp.net/attachments/1170286339179159563/1290179358799040512/IMG_20240318_213850.jpg?ex=66fb84a9&is=66fa3329&hm=733a9465294664f6c8f35eeb7ddc119a961528f3154facde87bd83d7a6ba6d4b&')
+        .setAssetsLargeImage('https://media.discordapp.net/attachments/1212085053870309436/1291066255066796182/IMG_20240318_213850.jpg?ex=66febea6&is=66fd6d26&hm=684506e6341a142696f60461eaea7dc2507e90e7eebba82e1df36d99f6dbbfe3&')
         .setAssetsLargeText('I am a minecraft player my DMs are open')
-        .setAssetsSmallImage('https://media.discordapp.net/attachments/1169491681507278863/1290181771325079664/17371ac53d1f82719e18cd14da9991b7.gif?ex=66fb86e8&is=66fa3568&hm=98d19c842282c7395dd6e97308e9c02e441b0e3ab576b35f344503261e1495a3&')
+        .setAssetsSmallImage('https://media.discordapp.net/attachments/1212085053870309436/1291066564124348466/17371ac53d1f82719e18cd14da9991b7.gif?ex=66febeef&is=66fd6d6f&hm=7f55acad58aeeaeed5c6ccdaf6e0ac0f29264804dcdb72d84a08d0b1856aa861&')
         .setAssetsSmallText('DISCORD')
         .addButton('Click here for surprise', 'https://discord.gg/sMZZQZZQHy');
 
